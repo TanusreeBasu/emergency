@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+button{
+ 
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 3px solid red;
+  margin-left:100px;
+    }
+  
